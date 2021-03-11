@@ -1,0 +1,24 @@
+
+#impuestos{
+    float: center;
+    background: skyblue;
+    padding-bottom: 10px;
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    box-shadow: 10px 10px 10px blue;
+    text-shadow: 5px 5px 5px red;
+    text-align: center;
+}
+
+#repetir{
+    background-color: rosybrown;
+    float: center;
+    padding-bottom: 10px;
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    box-shadow: 10px 10px 10px blue;
+    text-shadow: 5px 5px 5px red;
+    text-align: center;
+}
